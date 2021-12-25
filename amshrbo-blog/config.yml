@@ -1,5 +1,38 @@
 baseURL: "https://amshrbo.github.io/"
 languageCode: en-us
 title: amshrbo Blog
-
 theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: about_me
+      name: About Me
+      url: /about_me/
+      weight: 10
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 20
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
+ 
+
+params:
+  env: production
+  homeInfoParams:
+        Title: Hi there, This blog is all about machine learning, linux, copmuter vision 
+        Content: 
+                Hello there this is Ahmed Mohamed a passioniate machine learning engineer for more info about me.                 
+                Please visit my about page or you can go and find me online at [twitter](https://twitter.com/amshrbo), 
+                or through out [linkedin](https://linkedin.com/in/amshrbo).
+ 
+  ShowShareButtons: true
+  ShowReadingTime: true
+  author: "Ahmed Mohamed"
+  
