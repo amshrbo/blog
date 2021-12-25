@@ -26,12 +26,28 @@ menu:
 params:
   env: production
   homeInfoParams:
-        Title: Hi there, This blog is all about machine learning, linux, copmuter vision 
+        Title: Welcome to my _space_   
         Content: 
-                Hello there this is Ahmed Mohamed a passioniate machine learning engineer for more info about me.                 
-                Please visit my about page or you can go and find me online at [twitter](https://twitter.com/amshrbo), 
-                or through out [linkedin](https://linkedin.com/in/amshrbo).
+                Hello there this is Ahmed Mohamed a passioniate ___machine learning engineer___ with a _Bachelor’s degree in Computer Science_ 
+                Please visit my about page for more information about my experience.        
+                In this blog I tackle diffrent topics in computer science.              
+
+                
+                
+                `My Mission:` is to produce high quality content, So be assured that every article you will 
+                find here will gonna add some value for _you or for me._
  
+  
+  socialIcons: 
+    - name: linkedin
+      url: "https://linkedin.com/in/amshrbo"
+    - name: twitter
+      url: "https://twitter.com/amshrbo"
+    - name: github
+      url: "https://github.com/amshrbo"
+
+
+
   ShowShareButtons: true
   ShowReadingTime: true
   author: "Ahmed Mohamed"
