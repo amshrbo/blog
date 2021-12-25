@@ -1,0 +1,5 @@
+baseURL: "https://amshrbo.github.io/"
+languageCode: en-us
+title: amshrbo Blog
+
+theme: "PaperMod"

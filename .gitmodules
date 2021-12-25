@@ -1,0 +1,7 @@
+[submodule "amshrbo-blog/themes/PaperMod"]
+	path = amshrbo-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "amshrbo-blog/public"]
+	path = amshrbo-blog/public
+	url = git@github.com:amshrbo/amshrbo.github.io.git
+	branch = master
